@@ -67,9 +67,19 @@ Once inside the hallway, a disembodied female voice echoing from the far wall wi
 
 A large desk with a switchboard sits in the center of the control room. Players observe the following controls labelled in a neat, compact hand:
 
-* Five arcane inscriptions, each labeled Portal 1–5. The inscription for Portal 1 appears to have been tampered with – it's roughly scratched out and carved over with a new, more complicated pattern. An arcana check of 16 will clarify that these are portal sigil sequences.
+* Five arcane inscriptions of etched glowing light, each labeled Portal 1–5. The inscription for Portal 1 appears to have been tampered with – it has a more complicated pattern written in a different hand. An arcana check of 16 will clarify that these are portal sigil sequences, written using a magic stylus found on the desk.
 * Beneath each portal inscription, a red button labeled "Emergency portal shutdown".
 * Beneath each portal inscription, a dial labelled "portal mode" with three settings: ingress only, egress only, egress & ingress. It's currently set to "ingress only" for all portals.
+
+There's a heavy book chained to the desk. It's titled "Sigil Sequences", and contains sequences for the following destinations:
+
+* Oaks
+* Port Land
+* Sakro Mendhi
+* Lucastown
+* Carnivale
+
+The players can attempt to overwrite a portal's sigil sequence, DC of 20.
 
 A sturdy reinforced chest sits in the corner. It's locked. The lock can be picked with a DC of 22, and smashed open with a strength check of 27. Inside the chest:
 
