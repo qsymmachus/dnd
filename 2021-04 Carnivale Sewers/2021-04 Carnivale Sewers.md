@@ -48,7 +48,12 @@ Once (if?) the players break through the doors and dispatch the defenders, they'
 Small Barracks
 --------------
 
-This room looks like it was carved into the earth, the ceiling is held up with wooden beams. A few small beds and supplies are found here. If players search the supplies, they'll find some bread and cheese, a little skribane, and a cache of crossbow bolts.
+This room looks like it was carved into the earth, the ceiling is held up with wooden beams. A few small beds and supplies are found here. If players search the supplies, they'll find 
+
+* Some bread and cheese
+* A little skribane
+* A cache of crossbow bolts
+* 8 potions of cure moderate wounds
 
 The Sewerways
 -------------
@@ -63,9 +68,9 @@ Sky Blue Wizard (_torquoise triangle_)
   * STR 0, DEX +1, CON +0, INT +3, WIS +1, CHA +1
   * Attacks: unarmed only
   * Spells: [Advanced spells](./advanced-spells.pdf)
-  * Items: Sky Robes. +1 to AC, 10% of deflecting a spell
+  * Items: Sky Robes. +1 to AC, 10% chance of deflecting a spell
 
-The northmost sewerway is blocked by three Portcullis. The players can see light coming from a point down the tunnel, but it's too far to make out what's down there. These Porticullis can only be opened by the __three levers__ scattered around the map. The levers are located in
+The northmost sewerway, which provides passage to the __Reservoir__, is blocked by three Portcullis. The players can see light coming from a point down the tunnel, but it's too far to make out what's down there. These porticullis can only be opened by the __three porticullis levers__ scattered around the map. The levers are located in
 
 * The Boss Quarters
 * The Contraband Room
@@ -104,7 +109,7 @@ The Potion Dwarf
 If the players dispatch the dwarf and are able to search the room, they'll find
 
 * Crates full of Skribane and Cindar – more than they could possible hope to carry.
-* Many bottles of liquor what tastes like liquor, with labels peeled off.
+* Many bottles of what tastes like liquor, with the labels peeled off.
 * Shelves of glass bottles. Someone with arcane knowledge will identify the following potions of interest:
   * Potion of climbing
   * Potion of Stone Giant Strength
@@ -113,17 +118,39 @@ If the players dispatch the dwarf and are able to search the room, they'll find
 The Crystal
 -----------
 
-TODO
+The twin doors to this room are covered in magic wards. They're completely unfamiliar to anyone in the party. Underneath the runes, you can faintly make out the letters "SFPUC".
+
+An enormous purple crystal, 10 feet tall, is in the center of the narrow room. It pulses with light and humming energy. As you approach, you can feel your hair start to stand up on end, and an extremely loud, angry voice will shout out – "RELEASE ME! RELEASE ME NOW!" It seems like the voice is coming from inside the crystal.
+
+Whatever intelligence may reside in the crystal has no interest in answering questions. It simply keeps shouting, and demanding that it "BE RELEASED". The humming sound will grow louder and louder if the players keep trying to communicate with it.
+
+Finally, the Crystal lets out a long cry that shakes the walls, yells "DIE! DIE! DIE!", and begins shooting crackling bolts of purple lightning at the players. Each bolt deals 3d8 damage, players take half damage if they succeed a Dexterity roll of 18. The crystal cannot be harmed – weapons bounce off it harmlessly, and magic has no affect. The players can only leave the room, before the mysterious intelligence inside the crystal kills them.
 
 Main Barracks
 -------------
 
-TODO
+This room contains five narrow beds and table with a small amount of bread, cheese and sausage. There's a pot of tea that is still hot.
 
 Boss Quarters
 -------------
 
+This room is much nicer than any you've seen so far – attractive tapestries hand from the walls, it's well lit by a floating lantern in the corner, and it smells of incense. An imposing desk and large chair upholstered in red leather sit in the center of the room.. There's a step ladder in front of the chair.
+
+The desk has no papers on it, only a tightly fitted wooden box that contains six large, expertly rolled Cindar cigars.
+
+The north bookshelves contains ledgers and account books for "product" or "bottles", and other suspiciously vague inventory.
+
+A small bedroom lies around the corner. A __porticullis lever__ is on the wall, if the players pull this, it opens one of the three porticullis blocking passage to the __Reservoir__.
+
+The chest at the foot of the bed is trapped (detected with a passive wisdom check of 20, active check of 14). The trap can be disarmed with a DC of 21, if the disarm fails it will trigger the trap. Otherwise, the trap will be triggered by the first person who opens the chest, dealing 3d8 of acid damage. Inside the chest they will find:
+
+* 638 gold pieces
+* Shimmering scarlet wizard robes covered in silver stars. The robe, when worn, provides damage resistance to all fire and lightning damage.
+* The following letter:
+
+```yaml
 TODO
+```
 
 Sphere
 ------
