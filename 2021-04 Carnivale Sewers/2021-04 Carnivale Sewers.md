@@ -12,11 +12,11 @@ Carnivale Sewers
 Portal Chamber
 --------------
 
-After stepping through the portal at the Architecture, our adventurers find themselves in a damp, hexagon-shaped room of stone. Water drips from the ceiling. About 30 feet ahead of them, they see narrow slits of light cast of the floor, and the sound of low voices. 
+After stepping through the portal at the Architecture, our adventurers find themselves in a damp, hexagon-shaped room of stone. Water drips from the ceiling. About 30 feet ahead of you, you see narrow slits of light cast on the floor, and the sound of low voices. 
 
-As they move forward past the threshold, they see large, reinforced double doors at the end of the room. Two smaller doors flank it. There are arrowslits carved in the stone walls, two to a side, and from one of them a voice rings out – "which way does the bugbear run?" It's some kind of shibboleth. Unfortunately, our adventurers don't know the right answer.
+As you move toward the threshold, you see large, reinforced double doors at the end of the room. Two smaller doors flank it. There are arrowslits carved in the stone walls, two to a side, and from one of them a voice rings out – "which way does the bugbear run?" It's some kind of shibboleth. Unfortunately, our adventurers don't know the right answer.
 
-They'll have to fight the figures behind the arrowslits, two wizards and two toughs, who begin firing bolts and blasting spells through the slits. All ranged player attacks through the arrowslits will be __with disadvantage__.
+You'll have to fight the figures behind the arrowslits, two wizards and two toughs, who begin firing bolts and blasting spells through the slits. All ranged player attacks through the arrowslits will be __with disadvantage__.
 
 * Male Drow Wizard (_purple triangle to left_)
   * AC 14
@@ -70,7 +70,7 @@ Sky Blue Wizard (_torquoise triangle_)
   * Spells: [Advanced spells](./advanced-spells.pdf)
   * Items: Sky Robes. +1 to AC, 10% chance of deflecting a spell
 
-The northmost sewerway, which provides passage to the __Reservoir__, is blocked by three Portcullis. The players can see light coming from a point down the tunnel, but it's too far to make out what's down there. These porticullis can only be opened by the __three porticullis levers__ scattered around the map. The levers are located in
+The northmost sewerway, which provides passage to the __Reservoir__, is blocked by three Portcullis. The players can see light coming from a point down the tunnel, but it's too far to make out what's down there. These porticullis can only be opened by the __three porticullis levers__ scattered around the map. The levers are located in:
 
 * The Boss Quarters
 * The Contraband Room
@@ -134,7 +134,7 @@ This room contains five narrow beds and table with a small amount of bread, chee
 Boss Quarters
 -------------
 
-This room is much nicer than any you've seen so far – attractive tapestries hand from the walls, it's well lit by a floating lantern in the corner, and it smells of incense. An imposing desk and large chair upholstered in red leather sit in the center of the room.. There's a step ladder in front of the chair.
+This room is much nicer than any you've seen so far – attractive tapestries hang from the walls, it's well lit by a floating lantern in the corner, and it smells like incense. An imposing desk and large chair upholstered in red leather sit in the center of the room. There's a step ladder in front of the chair.
 
 The desk has no papers on it, only a tightly fitted wooden box that contains six large, expertly rolled Cindar cigars.
 
