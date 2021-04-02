@@ -68,7 +68,7 @@ Sky Blue Wizard (_torquoise triangle_)
   * STR 0, DEX +1, CON +0, INT +3, WIS +1, CHA +1
   * Attacks: unarmed only
   * Spells: [Advanced spells](./advanced-spells.pdf)
-  * Items: Sky Robes. +1 to AC, 10% chance of deflecting a spell
+  * Items: Shimmering belt. +1 to AC, 10% chance of deflecting a spell
 
 The northmost sewerway, which provides passage to the __Reservoir__, is blocked by three Portcullis. The players can see light coming from a point down the tunnel, but it's too far to make out what's down there. These porticullis can only be opened by the __three porticullis levers__ scattered around the map. The levers are located in:
 
@@ -95,14 +95,16 @@ The Contraband Room
 
 This room is filled with crates, barrels, and shelves full of bottles. Two workbenches sit in the center, and they've covered in the tools of potion-making – mortar and pestle, alembics, magical flames, and so on. Strange smells, stains, and vapors fill the room.
 
+One of the three __porticullis levers__ is on the east wall. Pulling this will open of of the three porticullis blocking passage to the __reservoir__.
+
 A male dwarf is working at the tables. He's wearing googles and a leather apron, and has a blonde beard. He freezes when you enter, setting a bottle he was examing on the table. "Who the fuck are you?" he asks gruffly.
 
-The dwarf is not here for conversation. He'll ask the players to get out, "or I'll stick yas", he states matter-of-factly, after pulling out a long stilleto from his belt. He doesn't answer any questions – "I ain't telling you nothing" – and will hold his ground unless the players start a fight. If they leave, he'll do nothing. If the players try to take anything from the room, he'll attack them.
+The dwarf is not here for conversation. He'll ask the players to get out, "or I'll stick yas", he states matter-of-factly, after pulling out a long stilleto from his belt. He doesn't answer any questions – "I ain't telling you nothing" – and will hold his ground unless the players start a fight. If they leave, he'll do nothing. If the players try to take anything from the room, or pull the __porticullis lever__, he'll attack them.
 
 The Potion Dwarf
-  * AC 18
+  * AC 17
   * HP 75
-  * STR +2, DEX 0, CON +3, INT 0, WIS +1, CHA -2
+  * STR +2, DEX +1, CON +3, INT 0, WIS -1, CHA -2
   * Attacks: Stilleto, +4 to hit, 1d6 damage + 2; two attacks per round
   * Items: +1 Stilleto
 
@@ -146,34 +148,69 @@ The chest at the foot of the bed is trapped (detected with a passive wisdom chec
 
 * 638 gold pieces
 * Shimmering scarlet wizard robes covered in silver stars. The robe, when worn, provides damage resistance to all fire and lightning damage.
-* The following letter:
-
-```yaml
-TODO
-```
 
 Sphere
 ------
 
-TODO
+This room is shaped like a circle with a dome ceiling. The walls seem to be made of perfectly smooth rock.
+
+A round table is at the center of the room, upon which sits a dark glass __orb__. When you peer into the orb, its inky color recedes, and you see flickering images of different people and places:
+
+You see a hooded man walking down a busy town street, then the image dissolves to show two figures standing at a dock, whispering to one another; now, a large warehouse; then, the image flits again to reveal an enormous tower, shaped like a pyramid, with a giant bronze sphere embedded in its side, hundreds of feet up. The orb is constantly cycling through these different images, all actively observed through some powerful magic, unfamiliar to any of you.
+
+If a player touches the orb, they will be blinded for an hour. A successful passive wisdom check of 22 from any of the players will give them a strong intuition that the orb shouldn't be tampered with.
 
 Dungeon Cells
 -------------
 
-TODO
+When you enter this room you startle a portly man sitting on a stool by the door. He fumbles a bit, but grabs a club leaning against the wall, shouts for help, and tries to stop the players.
+
+* Dungeon Guard
+  * AC 12
+  * HP 15
+  * STR +2, DEX -2, CON +1, INT -1, WIS -1, CHA 0
+  * Attacks: Club, 1d8 damage
+  * Items: Keyring
+
+His keyring will open all of the cells lining this dark, dank corridor. The second-to-last cell, which seems to have been reinforced to make the space between cell bars smaller, contains none other than the __Grundler__ (_orange diamond on the map_).
+
+The Grundler is quite excited to see you, and asks you to unlock his cell if you haven't already. At first he thinks you're here to rescue him, or on some other mission from the Mage's Guild, and is surprised to learn you don't even know where you are. He explains that he was caught spying on what he calls "the Maggies", or the Fraternal Order of Magisters, and that this is one of their safe houses, hidden in the sewers of Carnivale.
+
+He goes on to explain that the Magisters are a powerful and feared organization of wizards based in Carnivale. They are ostensibly a "fraternal order" for mutual support, but in reality a criminal conspiracy involved in the drug trade, production of magical contraband, and research into unethical and dangerous forms of magic. For these reasons and more, they attract the attention of the Guild, with whom they've been engaged in a secret war for many years.
+
+Incidentally, as the Grundler is telling you all this, he's casually searching the body of the dungeon guard, taking his belt, dagger, sack of coins, and cinching it around his narrow goblin waist.
+
+He goes on to tell you that you're lucky to find yourselves in these sewers now, because the "big boss" and most of the other wizards are not here. He explains that your best hope of escape is through the reservoir entrance, past the porticullis, and he tells you where the three levers are. 
+
+He, however, is going to take the "tight exit", and as he says that he heads out the door and walks south toward a sewer grate in the floor. Saluting you goodbye, he slips through the grate and disappears.
 
 Summoning Chamber
 -----------------
 
-TODO
+This room is illuminated by the glowing magical circle carved into the stone floor. The space forboding and smells like burnt hair. The closer you get to the circle, the more wary you feel. An arcane knowledge check, depending on how high it is, will reveal some of the following details: this is a summoning room, the circle is a magical gate, and judging by the magical inscriptions within the circle, it is designed to contain something malevolent. 
 
 Mess Hall
 ---------
 
-TODO
+This space looks like a dive bar except it's been carved into the earth. A half-orc appears to be passed out drunk at a nearby table, and is snoring loudly.
+
+One of the __porticullis levers__ is found on the wall behind the bar.
 
 Reservoir
 ---------
 
-TODO
+Once you have opened all three __porticullis__ you may proceed up the long sewerway that leads north. It opens up to a large, hexagonal room made of brick, with brick columns supporting a 30 foot ceiling. At the back wall, you see a ladder leading up to what looks like a manhole cover.
 
+As soon as the players step toward the center of this room, they are immediately surrounded by a circle of wizards in many-colored robes who materialize suddenly out of thin air. Any player who can see into the ethereal plane would have already noticed them hiding there, but they won't have time to react.
+
+A short but imposing gnome in bright blue robes is standing at the head of the circle. He is bald, but has a large white moustache, and one of his eyes seems to have been replaced with a glowing orange crystal. All the wizards have various wands and staffs aimed at you; only the gnome seems relaxed, with has arms folded at his chest.
+
+"The Guild has the fucken' balls to come into MY HOUSE", the gnome intones, "and fuck about with MY BUSINESS". He spits on the ground, leaving the tell-tale green saliva of the Skribane dipper.
+
+"Let's just kill them" says a haughty elf woman to your left. The gnome cuts her off – "I'm not going to waste this opportunity".
+
+He interrogates you, and seems certain that you're agents of the Guild. He wants to know how you got inside. He doesn't believe your claim that you ended up here accidentally, especially since it's clear you've killed a number of his "associates".
+
+"You're going to pay for this," the gnome concludes, "you have a debt that needs to be paid. Fortunately for you, it won't be paid in blood. From now on, you work for me!"
+
+With a flick of his wrists the gnome casts a spell on the group – all must make a wisdom save of 25 or fall asleep. Players who resist are quickly overpowered by the group of wizards, and you all slip into darkness.
