@@ -42,7 +42,7 @@ Walking out of the kitchen, you're surprised to find yourself in a restaurant. O
 
 ### The Streets
 
-Commoners and horse carts travel up and down a cobble stone streets. It's a bright and sunny day and what you assume in Carnivale – some of you have been here before.
+Commoners and horse carts travel up and down a cobble stone streets. It's a bright and sunny day and what you assume is Carnivale – some of you have been here before.
 
 "Poppys! Poppys for sale!" A young elf boy (_orange square on map_) is hawking poppy flowers at the six-way intersection southwest of the restuarant. The players can ask him basic questions about the area – what merchants are nearby, and if he's heard any neighborhood gossip.
 
@@ -61,11 +61,11 @@ The following items are for sale here:
 * Potion of Greater Healing (4d4+4), 45 gold
 * Potion of Superior Healing (8d4+8), 120 gold
 * Potion of Speed (haste for 1 minute), 270 gold
-* Cindar, 5 gold an ingot
+* Cindar, 4 gold an ingot
 
 ### Wizardly Wares
 
-A long, narrow room is lined with rows of bookshelves. There's barely enough space to squeeze past them. At the very back of the room, a dwarvish wizard in dingy robes is hunched over a book. He jolts up when you speak to him, and his glasses fall of his face. "My goodness, sorry, very sorry, my mind was quite elsewhere. Are you looking for something in particular?"
+A long, narrow room is lined with rows of bookshelves. There's barely enough space to squeeze past them. At the very back of the room, a dwarvish wizard in dingy robes is hunched over a book. He jolts up when you speak to him, and his spectacles fall of his face. "My goodness, sorry, very sorry, my mind was quite elsewhere. Are you looking for something in particular?"
 
 The dwarf sells the following magical wares:
 
@@ -78,11 +78,25 @@ The dwarf sells the following magical wares:
 
 ### Armorer
 
-TODO
+A smartly dressed elvish man stands behind the counter. "Welcome to Meredith's Fine Armory. Are you looking for a particular piece?" The Elf caters primarily to wealthy collectors, but is excited to have clients who will actually wear his armors.
+
+Almost any kind of armor or shield can be found here of ordinary quality. A few particularly fine pieces are also for sale:
+
+* Masterwork Full Plate Armor, among the best made (18 AC + 2), 7400 gold pieces
+* Mirror bright buckler, of elven craft (+1 to AC, 10% chance of deflecting spells and magical rays), 2400 gold
+* Torque of Gundar, a solid gold torque (+2 to saves against all mind-affecting spells), 2000 gold
 
 ### The Tipsy Dragon
 
-TODO
+This tavern is in a beautiful, bright building with large windows looking out on the street. You're a bit shocked at the amount of glass. A fireplace crackles in the north corner, a few patrons are chatting and sipping drinks, and the barkeep is cleaning mugs behind the bar. A young man with blond hair and a rusty red cloak is sitting at the bar; he turns and looks at you when you come in.
+
+When you approach the bar the young man is silent at first, but eventually he turns to whichever player is closest and addresses them by name. We flashes a small talisman as he speaks – it's a silver owl with ruby yes. His name is __Marek__.
+
+"The guild has been looking for you – there's been a spectacular collapse of Nursey's cult in the past few days. Her undead followers have been returning to life, and her leadership has scattered. We suspect you might have been behind it, but wanted to confirm. Could you fill us in on the details?"
+
+If the players inform Marek of the job Mercurio has sent them on, he'll grow very concerned. "The guild has been trying to gain access to the sphere for weeks. I'm not surprised the Magisters are also trying to get inside, but it's bad news." He explains to you that you can't get out of the job – if he's using his typical _modus operandi_, Mercurio has put you all under a __geas__, and you cannot resist his commands while the spell is in effect.
+
+"I need to talk to the center about this and figure out what we can do. Meet me at the __Rose Inn__ in one hour; I'll be in the room at the end of the hall."
 
 ### Lucas Bank
 
@@ -98,10 +112,14 @@ TODO
 
 ### Castle Yorba
 
+TODO
+
 Underground
 -----------
 
 ![Underground](./underground-map-labeled.png)
+
+This is a small network of sewers and tunnels below street level. It's accessible at three different entrances.
 
 ### Storeroom Entrance
 
@@ -113,7 +131,7 @@ The sewerway here is blocked by grates to the east.
 
 Leads to the Yorba hideout at street level.
 
-### Castle Yorba Entrace
+### Castle Yorba Entrance
 
 Leads to the northeast room inside Castle Yorba at street level.
 
