@@ -100,19 +100,80 @@ If the players inform Marek of the job Mercurio has sent them on, he'll grow ver
 
 ### Lucas Bank
 
-TODO
+Rich red carpeting covers white marble floors in this bright, spacious building. A wall of ornately decorated metal separates customers from bank tellers.
+
+The bank manager – a portly gnome – is working in his office to the south. The players can request a __loan__ from the manager, but will pay it back over time with a magical spell that siphons off 10% of any gold they acquire until the loan is paid off, plus 15% interest. When they sign the loan contract, it disappears in a poof of blue smoke.
+
+The bank vaults are behind the teller counter and can only be opened using the manager's __vault key__. An __iron golem__ is guarding the vaults and will attack anyone who enters, unless accompanied by the manager. If the manager manages to shout "code red!" the Golem will defend him
+
+The west vault is filled with piles of gold, gems, and other precious metals. Players can grab as much as they can carry, but can only guess how much it's worth.
+
+The east vault contains chests each filled with a pre-counted amount of gold coin, 10,000 gold per chest.
 
 ### Sisterhood of Thieves
 
-TODO
+An angry black cat is painted on the alleyway walls near this hideout. Brimlad will recognize this as the symbole of the __Sisterhood of Thieves__. She is friendly with this organization and will be able to get the party inside.
+
+When you knock on this nondescript door, a small window slides open and a hooded guard will recognize Brimlad and let you all in.
+
+In the east room, a large Aarakocra name __Salleek__ leans on the table smoking a long pipe. The smell of cindar fills the room. She recognizes Brimlad – "Long time no anything Brimlad, you hear to buy some contraband?" She intermittently chirps and squawks in her speech to convey emphasis and shades of meaning. She has the following items for sale:
+
+* Throwing knives +1, 120 gold each.
+* Thieves tools for lock picking, 30 gold a set.
+* Grappling hook and 30 foot rope, 45 gold.
+* A pouch of orange powder, when ingested or blown in the face of a living creature, they must pass a 16 constitution check or fall unconscious for 1d4 minutes. 1 pouch provides 10 doses, 390 gold.
+* Explosive charge, this is an 8 inch tube with a fuse on one end. When embedded in a wall, it will blast a hole in ordinary stone or wood wall up to 5 feet thick. Magically reinforced walls, or metal walls, will not be affected. Anyone within a 15 foot cone of the blast will receive 6d8 blast damage. To work, it must be placed in a gap or whole in the wall at least 6 inches deep. 200 gold each.
+* Diamond-tipped hand drill, drills a 6" hole in a wood wall in 1 minute, or stone in 10 minutes. You can subtract your strength modifier from the number of minutes, for a minimum of 1 minute. 75 gold.
+
+A small, smokey tavern is in the west room. Only women are here, and they all wear the dark and practical garb of thieves. One half-elven women, wearing pitch black robes, beckons Brimlad when she sees her (_black hexagon on the map_). "Brimmie, where have you been all this time?" She throws her hood back. "It's me, __Eva__!"
+
+If you tell Eva about your job in Castle Yorba, she'll laugh and say you have your work cut out for you. "The Yorbans are selling tickets to see that sphere for 50 thousand gold. As far as I know, no one has paid up, and who could anyway?" She offers the party some advice.
+
+First, Eva's "free" advice – rob the Lucas Bank for 50 grand. "It's a hare-brained idea but Salleek has been pushing it for years, ask her about it if you're crazy enough to do it."
+
+Second, Eva hints that she knows another way in Castle Yorba, but she won't give it to you for free. She'll tell you if you run a job for her – steal a letter addressed to "Desdomonda" from the __Malden residence__, and bring it back to her.
+
+If the players bring Eva the letter, she'll tell them about the __Yorban Hideout__.
 
 ### Malden Residence
 
-TODO
+A small common green is outside this house. Some sheep are grazing within a fence.
+
+An old man in worn out cloths is cooking some stew next fire in the south of the green – "Makin' lunch". If you make conversation with him, he'll tell you about his job. He's a gong farmer, carting "night soil" from the streets to the sewers below.
+
+This richly appointed house is guarded by an imposing man in full plate armor (_green triangle on map_). He has no interest in making conversation with the players and won't let them in the house.
+
+* Malden Guard
+  * AC 18
+  * HP 57
+  * STR +2, DEX 0, CON +2, INT -1, WIS 0, CHA -1
+  * Attacks: Greatsword, +2 to hit/1d12+2 damage, two attacks
+
+Players can alternatively sneak in a back entrance. It's locked, but can be picked with a DC of 18.
+
+A letter to "Desdemonda" sits on the desk in the bedroom. This is the letter __Eva__ is looking for. It appears to be a profession of love to a married woman.
+
+### Yorban Hideout
+
+The door to this hideout is covered in graffiti and the building looks abandoned. Inside you find a cache of weapons and a surprised Yorban Guard (__purple triangle on map__). He has an amulet on his neck that will allow you to pass through the magical barrier in the underground tunnel.
+
+The stairway here leads to the underground tunnel to Castle Yorba (see __Yorba Hideout Entrance__ below).
 
 ### Castle Yorba
 
-TODO
+Castle Yorba is an enormous, pyramid-shaped tower. It dominates the cityscape. High up the tower, a featureless copper sphere is half-embedded in the side of the tower. The sphere is hundreds of feet wide.
+
+The first thing you see when you enter the castle is a bear rug on the floor, and a finely dressed woman sitting behind a desk. Her face is impassive and she doesn't even nod to acknowledge your prescence, she just stares at you. "Hello, what business do you have with the House of Yorba?"
+
+She informs you that the Yorban family is generous enough to allow magical researchers to see the sphere, for a modest fee of 50,000 gold coins. No amount of convincing will get her to do otherwise.
+
+Yorban guards block the doors leading deeper into the castle.
+
+On the otherside of these doors, a __Beholder__ is standing guard.
+
+At the back of the Castle, the __castle stairway__ leads up the tower. The adventure ends when our intreped adventurers reach this stairway.
+
+North of the castle stairway, another set of stairs leads underground to the __Yorban hideout__ tunnel.
 
 Underground
 -----------
@@ -129,7 +190,7 @@ The sewerway here is blocked by grates to the east.
 
 ### Yorba Hideout Entrance
 
-Leads to the Yorba hideout at street level.
+Leads to the Yorba hideout at street level. A shimmering magic barrier is blocking passage down this tunnel. Players may only pass through the barrier if they are wearing the amulet worn by Yorban guards.
 
 ### Castle Yorba Entrance
 
@@ -137,6 +198,12 @@ Leads to the northeast room inside Castle Yorba at street level.
 
 Monsters
 --------
+
+* Yorban Guard
+  * AC 19
+  * HP 44
+  * STR +1, DEX 0, CON +1, INT 0, WIS 0, CHA 0
+  * Attacks: Longsword, +1 to hit/1d12+1 damage, two attacks
 
 ![Beholder 1](./monsters/beholder-1.png)
 ![Beholder 2](./monsters/beholder-2.png)
