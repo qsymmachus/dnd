@@ -12,6 +12,10 @@ Castle Yorba Heist
   * [Another Manual](https://dnd-5e.herokuapp.com/monsters/)
 * [Magic Items & Potions](https://donjon.bin.sh/5e/magic_items/)
 * [Spells](https://colinmarc.com/dndspells/)
+* Music and sounds
+  * [Intro music](https://www.youtube.com/watch?v=19dx6AkC_GY)
+  * [Street ambience, daytime](https://www.youtube.com/watch?v=x2UulCWGess)
+  * [Street ambience, nighttime](https://www.youtube.com/watch?v=bSbYpFMNxLI)
 
 Streets of Carnivale
 --------------------
