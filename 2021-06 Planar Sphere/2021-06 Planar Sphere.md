@@ -59,7 +59,7 @@ This room glows with the multi-colored light cast by runes carved in the floor. 
 Golem Workshop
 --------------
 
-The first thing you notice here is the smell, and as you round the corner to this room you see the floor and walls are covered with streaks of blood. The lifeless bodies of a dozen men, all wearing the purple livery of Yorba, are crumpled around the room. Some have been crushed into the ground, and others appear to have been smashed against the walls.
+The first thing you notice here is the smell, and as you round the corner to this room you see the floor and walls are covered with streaks of blood. The lifeless bodies of a dozen men, all wearing the purple livery of Yorba, are crumpled around the room. Some have been crushed into the ground, and others appear to have been smashed against the wall.
 
 Most striking of all is a towering stone figure standing at the back of the room. Its clenched fists are stained with blood. But it is motionless, and seemingly lifeless, like a statue.
 
@@ -114,21 +114,29 @@ Study
 This appears to be a small study. Parchment litters the floor and a decidedly untidy desk is covered in dust. If players search the bookshelf, they will find:
 
 * A "Flesh to Stone" spell scroll.
-* A small box containing a _ring of protection_. When worn, it increases your AC by 1.
+* A small box containing an _amulet of protection_. When worn, it increases your AC by 1.
 
 If players search the desk, they'll find someone's personal notes, in the same hand as the notes they found in the __Laboratory__. They'll also find a __diagram__ that looks interesting (see the file `diagram.png`).
 
 Foundry
 -------
 
-Two rows of 5 metal columns line this room, which is light by bright flashes of lighting that bolt from the top of one column to the next.
+Two rows of five metal columns line this room. Bright flashes of lighting bolt from the top of one column to the next, and the air smells of ozone.
 
-Each column has a lever, nine of them pushed to the left.
+Each column has a lever, labeled "on" and "off". Nine of the levers are switched to "on", one is switched "off". The __diagram__ found in the study will reveal that this is the power switch for the "Bridge to Elevator". If the players flip this switch on, it will activate a __force-field bridge__ between the __warp bridge__ and the door to the __elevator__.
 
-The Bridge
-----------
+If the players flip the switch labeled  "defense bolts" on the __diagram__, it will disable the __defense bolts__ that block access to the __warp bridge__.
 
-TODO
+The Warp Bridge
+---------------
+
+The hallways leading to this room are defended by __defense bolts__ on both the north and south sides. On the south side, you find a scorched skeleton lying between the bolts. A passive perception check of 10 will make it obvious that this is some kind of trap. If a player walks into the bolts, a powerful bolt of energy will fire, dealing 12d8 electric damage. The defense bolts cannot be disabled by hand, they can only be turned off using the correct switch in the __foundry__.
+
+Once you make it inside, you're amazed by what you see – a long thin bridge is suspended over infinite space. The space below the bridge is a sea of swirling color and mist, extended limitlessly below you. If a player falls into this space, they will simply float, unable to move unless they have some surface to push against or something pulling them.
+
+Shortly after you enter the room, two shapes detach from the ceiling and begin flying around the room. They resemble flying mata rays; they are __cloakers__, and will attack the players.
+
+A door to the __elevator__ is on the east side of this room, but it can't be reached on foot unless players have neabled the __force-field bridge.__.
 
 Elevator
 --------
