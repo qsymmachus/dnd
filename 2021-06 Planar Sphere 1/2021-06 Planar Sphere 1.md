@@ -1,5 +1,5 @@
-The Planar Sphere
-=================
+The Planar Sphere, Part 1
+=========================
 
 * Dungeon scrawler map file: `map.ds`
 * Game map: `game-map.pxd`
@@ -61,14 +61,16 @@ Golem Workshop
 
 The first thing you notice here is the smell, and as you round the corner to this room you see the floor and walls are covered with streaks of blood. The lifeless bodies of a dozen men, all wearing the purple livery of Yorba, are crumpled around the room. Some have been crushed into the ground, and others appear to have been smashed against the wall.
 
-Most striking of all is a towering stone figure standing at the back of the room. Its clenched fists are stained with blood. But it is motionless, and seemingly lifeless, like a statue.
+Most striking of all is a towering stone figure standing at the back of the room. Its clenched fists are stained with blood. It is motionless, and seemingly lifeless, like a statue.
 
 The __Stone Golem__ will remain lifeless, unless __Melip__ decides to wake it. Melip has the power to command the Golem, and will use it to defend himself.
 
 Laboratory
 ----------
 
-Magical instruments, artifacts, and scrolls are neatly organized on long tables. The enormous horned skull of some unknown creature sits in the center of the room. Everything is covered in a thick layer of dust. A notebook by the skull is filled with tabular data written in a neat hand. None of it means anything to you, but you note that it's dated to the year 3045 – that's 116 years ago.
+Magical instruments, artifacts, and scrolls are neatly organized on long tables. The enormous horned skull of some unknown creature sits in the center of the room. Everything is covered in a thick layer of dust.
+
+A notebook by the skull is filled with tabular data written in a neat hand. None of it means anything to you, but you note that it's dated to the year 3045 – that's 116 years ago.
 
 The bookshelf at the back of the room contains more notebooks, some filled with more tabular data, and others with detailed information about plants, animals, and other creatures most of you have never heard of before. Those who can pass an arcane knowledge check of 15 will recognize some of these creatures as extra-planar – they're not from our plane of existence.
 
