@@ -7,3 +7,5 @@ Amegdul
 * [Monster Manual](https://www.dndbeyond.com/monsters)
 * [Magic Items & Potions](https://donjon.bin.sh/5e/magic_items/)
 * [Spells](https://www.dndbeyond.com/spells)
+
+![Labeled map](./map-labeled.png)
