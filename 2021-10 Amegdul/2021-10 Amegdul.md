@@ -154,6 +154,26 @@ _Both the Black Monk and Kul will escape into the sphere and warp away if possib
 
 _If both Kul and the Black Monk are killed or incapacitated, the remaining goons will attempt to escape on their __airship__._
 
+Kul carries a letter written in rhyming Auran, when translated into common it reads:
+
+```
+Brother Kul of feather fair
+
+Alight at once upon the air
+
+Make haste with arms to Amegdul
+
+Of spire steep and water cool
+
+The wefting orb awaits us soon
+
+To reclaim and take to Hamagdoon
+
+Destroy the heathens who hold the key
+
+And bring it quickly back to me.
+```
+
 Monsters
 --------
 
@@ -198,7 +218,7 @@ __Step of the Wind__ Spend 1 ki point, take [disengage](https://www.dndbeyond.co
 Kul is wearing dark ochre robes patterned with dark blue sigils. Based on what he's carrying, it looks like he is a warlock. He has pale yellow feathers with black tips, and beady black eyes.
 
 * Level 12 Warlock
-* __Hit Points__ 42
+* __Hit Points__ 37
 * __Armor Class__ 14
 * __Speed__ 20 feet, fly 50 feet
 * STR +2, DEX + 3, CON +0, INT +0, WIS +0, CHA +2
