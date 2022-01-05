@@ -5,8 +5,10 @@ Cloud Road
   * Travel map
     * `travel-map.ds`
     * `travel-map.png`
+    * `travel-map.pdx`
   * Narrows map
     * `narrows-map.png`
+    * `narrows-map.pdx`
   * Notch map
     * `notch-map.png`
 * Game map: `game-map* [Dungeon Scrawler](https://probabletrain.itch.io/dungeon-scrawl)
