@@ -22,6 +22,14 @@ Cloud Road
 * [Spellbook Generator](https://5emagic.shop/spellbook/generate)
 * [NPC Generator](https://www.kassoon.com/dnd/npc-generator/)
 
+Amegdul
+-------
+
+_Use the `game-map.pdx` from the previous adventure in Amegdul._
+
+Early morning in Amegdul. The sky is cool lavender, and the western mountains glow with the light of the rising sun. The smell of smoke billows on the breeze – the wreck of the attacking skyship is still smoldering on the desert floor below.
+
+
 Skyship Wreck
 -------------
 
