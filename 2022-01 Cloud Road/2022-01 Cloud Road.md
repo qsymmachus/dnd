@@ -70,7 +70,7 @@ The broken hull and deflated ballon of a skyship is lying scattered on the deser
 
 The players can land and search the wreck. There are no bodies, and the hull is partly buried in the sand; it must have crashed some time ago. The cargo has since been looted. 
 
-You do however find a crossbow, but instead of loaded with bolts, it is loaded with a grappling hook and a rope. It looks like it could be used to shoot the grappling hook some distance.
+You do however find a __crossbow__, but instead of loaded with bolts, it is loaded with a grappling hook and a rope. It looks like it could be used to shoot the grappling hook some distance.
 
 ### Grappling Hook Crossbow
 * Fired by performing a ranged attack against a target.
@@ -89,7 +89,26 @@ A lone dwarf in dusty clothes is camping by the oasis, cooking meat on skewers o
 
 Jerimo raises his eyebrows at this. Crossing the desert by foot would be a death sentence for most.
 
-If prompted, the dwarf will offer a little advice for the journey – avoid travelling the narrows at night.
+If Tilden strikes up a conversation with the Dwarf, they will quickly develop a rapport. He's from the same part of the hills as Tilden, and they quickly start rattling off the names of mutual friends and common bonds of kinship. The dwarf's name is Gundamar Coe, or just "Gund".
+
+At this point, Gund will ask where the party is headed. "Since you're headed west," he asks, "and seem to be the right sort of folk, I wonder if I couldn't hitch a ride to Sakro Mendhi? I don't have much gold, but I won't be dead weight, I can be handy in a pinch." He pats the hilt of his sword as he says this.
+
+If the players take Gund with them, they will find he is an extremely competent ranger, who will fight on their behalf.
+
+### Gundamar Coe
+
+| STR      | DEX      | DEX      | INT      | CHA      |
+|----------|----------|----------|----------|----------|
+| 10 (+0)  | 14 (+2)  | 22 (+6)  | 10 (+0)  | 9 (+0)   |
+
+* __Armor Class__ 12
+* __Hit Points__ 109 (10d8)
+* __Speed__ 20 ft.
+* __Skills__ Intimidation +3, Survival +6
+* __Senses__ Passive Perception 12
+* __Languages__ Common, Dwarven
+* __Melee attack__ dual wielding scimitars, +4 / 1d6+4. 2 attacks with main hand, attack with off hand as bonus action.
+* Ranged attack__ shortbow, +6 / 1d6, range 80/320. Acid vial, thrown up to 20 feet, deals 2d6 acid damage. 
 
 Crossroads
 ----------
@@ -114,9 +133,9 @@ To the north, the narrows, a winding, windy canyon. "Tricky road, usually slower
 The Notch
 ---------
 
-A notch only 50 paces wide separate the two mountains bounding this valley, offering the only passage further west.
+A notch only 50 paces wide separate the two mountain ridges bounding this valley, offering the only passage further west.
 
-Two towers have been built high into the rockface on either side of the notch, hundreds of feet off the ground. The larger, northern tower has three large crenels cut into its walls, each providing a heavy cannon with a clear line of sight to your skyship and the valley below. The smaller, southern tower has only one narrow embrassure looking out on the valley. The banner of Sakro Mehndi – a golden lion on an ochre background – flies from the top of the southern towern.
+Two towers have been built high into the rockface on either side of the notch, hundreds of feet off the ground. The larger, northern tower has three large crenels cut into its walls, each providing a heavy cannon with a clear line of sight to your skyship and the valley below. The smaller, southern tower has only one narrow embrassure looking out on the valley. The banner of Sakro Mehndi – a golden lion on an ochre background – flies from the top of the southern tower.
 
 A heavy chain is extended between the two towers. Each chainlink is the size of your head. "You can't go over or under that chain," Jerimo whispers, "wizard's work." The desert air shimmers around the chain, as if it were hot.
 
@@ -124,7 +143,7 @@ A heavy chain is extended between the two towers. Each chainlink is the size of 
 
 Players will have the best luck if they pretend to be traders. If they prevaricate, or act suspicious, the gatekeeper won't let them pass. If they convince the gatekeeper that they're honest travellers, he'll ask them to pay a toll of 250 gold. Once paid, the magical chain will retract into the southern tower, floating on air.
 
-Particularly foolish players may try to force their way through the notch. They'll be up against the tower's cannons, and a magical chain they can't cross, except with a __greater dispel__. They could also force their way into the tower and pull the lever at the chain base to retract it themselves. If players force their way through the notch, they will be wanted criminals in Sakro Mendhi.
+Particularly foolish players may try to force their way through the notch. They'll be up against the tower's cannons, and a magical chain they can't cross, except with a dispel (spell level is 9, so DC is 19). They could also force their way into the tower and pull the lever at the chain base to retract it themselves. If players force their way through the notch, they will be wanted criminals in Sakro Mendhi.
 
 ### Tower Cannon
 
@@ -135,10 +154,125 @@ Particularly foolish players may try to force their way through the notch. They'
 The Narrows
 -----------
 
-TODO
+The desert valley quickly narrows into a long, winding canyon. Steady winds make progress slow, and the high canyon walls block the light of the sun. The canyon is eerily quiet, the only sound is the wind and your voices, which echo off the walls.
+
+In sections of the canyon, the players see clusters of small hills. Someone with a knowledge of history may identify them as barrows – grave sites, dug centuries ago.
+
+Because of slow progress through the canyon, Jerimo will be forced to put down the skyship for the night at the bottom of the canyon.
+
+_For the night time encounter, use the `narrows-map.pdx`._
+
+You wake to the sound of Jerimo whispering, and prodding each of you in turn – "wake up!", he has a hint of fear in his voice. "Listen!"
+
+Your campfire has long since gone out, and it's nearly pitch black in the canyon. You can see a slice of the stars through the top of the canyon above. You hear footsteps, barely audible at first, but getting louder, coming from the east. 
+
+A mass of skeletons and wights are approaching from the east. At the same time, skeletons and a mummy are approaching from the west. So long as the mummy is still alive, each round 1d4 skeletons will rise from the ground.
+
+The mummy is wearing a __copper torque__, it is icy cold to the touch.
+
+### The Barrow Torque
+
+* Once put on, the torque immediately tightens, fusing with your brow. It can only be removed with __remove curse__.
+* At night, the bearer will be afflicted with nightmares. Visions of human sacrifice, strange rituals chanted in an ancient tongue, and a recurring image of being intombed in a stone sarcophagus.
+* The bearer of the torque can cast [Command Undead](https://www.dandwiki.com/wiki/SRD:Command_Undead) at will.
+* However, each time they cast it, they may experience a __life drain__. A failed wisdom check against DC 13 will result in a 1d10 reduction in their maximum hit points, restored only after a long rest. If hit points reach 0 in this way, the player will die.
 
 Ambush
 ------
 
-TODO
+To the west, the mountains open to a great valley, expanding as far as the eye can see to the north and south. Another mountain range lies further to the west. In the middle of the valley, many miles away, you see a city, and recognize the great dome of palace of Sakro Mehndi.
 
+Two rock pillars lie between you and the opening of the valley. As you get closer, a small skyship will emerge from between the pillars. It's flying a black flag emblazoned with a skeleton holding a spear. "Shit," Jerimo says at this, "goddamn it just our luck, what are we paying the Sakro Mendhans for if they can't stop pirates. We'll try to give them the slip, but that looks like a fast ship they're flying."
+
+_Players can try to outmaneuver the pirates, by moving each skyship in turn. Jerimo's skyship can travel 5 spaces per turn, the pirate's skyship can travel 6 spaces per turn. If they make to the western edge of the map, they will successfully evade the pirates. If not, combat will begin between the two ships. Use the `ambush-map.pdx`._
+
+Though small the ship is armed with two small cannons, pointed directly at your ship. A motley crew of pirates, a mix of humans, orcs, and a half elf helmswoman, armed to the teeth. "Greetings travellers!" the helmswoman shouts. "That's a lovely skyship, plenty of room for us. Even so, I'm afraid we won't be able to fit all of us though. We'll have to leave you on the ground." Her crew laughs at this. "Surrender and we'll put you down nicely! Put up a fight, and we put you down the hard way!"
+
+The pirates will attempt to board and capture Jerimo's ship. If the players kill half of them, or if they kill the helmswoman, they will panic and attempt to flee, leaving behind any pirates still left on Jerimo's ship.
+
+### Jerimo's skyship
+
+* __Hit Points__ 250 (damage threshold 15)
+* __Armor Class__ 15
+
+#### Light Cannon, 8 pounder
+
+Can be fired every other combat round (loaded one round, fired the other.)
+
+* __Armor Class__ 18
+* __Hit Points__ 35 (damage threshold 10)
+* __Ranged Weapon Attack__ +6 to hit, range 100/800 feet, 3d10 damage
+
+### Pirates's clipper
+
+* __Hit Points__ 175 (damage threshold 15)
+* __Armor Class__ 15
+
+### Cannoneer
+
+They fire the cannons on the pirate clipper.
+
+* Level 3 Fighter
+* __Hit Points__ 25
+* __Armor Class__ 14
+* __Speed__ 30 feet
+* STR +1, DEX + 4, CON +2, INT +0, WIS +0, CHA +0
+* __Skills__ Athletics +3
+* __Attacks__
+  * Short sword +3/2d4+1 twice per round
+
+#### Light Cannon, fires grape shot
+
+Can be fired every other combat round (loaded one round, fired the other.)
+
+* __Armor Class__ 18
+* __Hit Points__ 35 (damage threshold 10)
+* __Ranged Weapon Attack__ +6 to hit, range 100/400 feet, 8d4 damage
+
+### Man-at-arms
+
+These pirates will attempt to board Jerimo's skyship. They fire grappling hook crossbows. If they grapple on to the ship, they will zip line across the next round.
+
+* Level 5 Fighter
+* __Hit Points__ 42
+* __Armor Class__ 14
+* __Speed__ 30 feet
+* STR +1, DEX + 4, CON +2, INT +0, WIS +0, CHA +0
+* __Skills__ Athletics +3
+* __Attacks__
+  * Scimitar sword +3/1d6+3 twice per round
+
+### Crossbowman 
+
+Crowssbowman will stay on the pirate ship, taking potshots at the players.
+
+* Level 5 Fighter
+* __Hit Points__ 38
+* __Armor Class__ 15
+* __Speed__ 30 feet
+* STR +0, DEX +5, CON +1, INT +0, WIS +0, CHA +0
+* __Skills__ Athletics +3
+* __Attacks__
+  * Heavy crossbow, +5/1d10, range 100/400, loading (only one attack per round).
+
+### Helmswoman
+
+She is focused on piloting the pirate clipper and will not join in combat unless forced. Killing her will cause the other pirates to panic and attempt to flee.
+
+* Level 7 Fighter
+* __Hit Points__ 65
+* __Armor Class__ 16
+* __Speed__ 30 feet
+* STR +1, DEX +6, CON +1, INT +0, WIS +0, CHA +0
+* __Skills__ Athletics +7
+* __Attacks__
+  * Rapier, +6/1d8+3, twice per round.
+
+Monsters
+--------
+
+![Skeleton](./monsters/skeleton.png)
+
+![Wight](./monsters/wight.png)
+
+![Mummy](./monsters/mummy.png)
