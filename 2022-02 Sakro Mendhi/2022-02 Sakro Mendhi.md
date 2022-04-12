@@ -15,8 +15,6 @@ Sakro Mendhi
 * [Spellbook Generator](https://5emagic.shop/spellbook/generate)
 * [NPC Generator](https://www.kassoon.com/dnd/npc-generator/)
 
-_Note that this map is meant to be split into two adventures. The first adventure is described in this document. It takes place in the streets of Sakro Mendhi and continues into the Mage's guild hideout, up to the point where the hideout is attacked._
-
 ![Labeled Map](./map-labeled.png)
 
 With the pirate skiff captured, Jerimo nursed his wounds and guided your airship over the great desert surrounding Sakro Mendhi. Aided by a strong westerly wind, you arrive at Sakro Mendhi within half a day, landing at an airship dock on the eastern edge of the city. "I've registered your new airship with the harbormaster," Jerimo tells you, "she's in good hands and will be ready when you need her." Gundamar also bids you goodbye to continue his journey to JoSan, but not before giving Tilden a flagon of dwarvish fire wine.
@@ -198,6 +196,8 @@ As you peer down the hallways outside the room, you hear the din of fierce comba
 
 __Combat is ongoing in the mess hall to the south. For every three minutes that the player delay aiding the defenders in the mess, roll a d10 for each of the defenders in the mess, and subtract that roll from their total hit points.__
 
+If the players return to this room once the assault has begun, they will find the __black monk__ looking through papers at the red wizard's desk.
+
 Blast Door Control Room
 -----------------------
 
@@ -262,6 +262,52 @@ The attackers are not human, orc, or any other race you recognize. They are tall
 
 __See details on the __friends__ and __foes__ in this battle in the sections below._
 
+Portal
+------
+
+This room is behind a featureless metal door. It can only be opened using the lever in the __blast door control room__.
+
+You recognize the cool blue light of a magical portal in this room, but it is flickering in and out – the surface of this portal appears to be unstable.
+
+_If a player attempts to walk through the portal, they will distintegrate._
+
+Bulkhead
+--------
+
+The way down this hallway is blocked by a large metal blast door. You hear the muffled sounds of combat on the other side of the door.
+
+The blast door can only be opened using the lever in the __blast door control room__.
+
+With the blast door open, the hallway opens up twenty feet to the right. Along the length of the right wall, a row of spears protrude from slots within the stone wall, and point at the wall directly opposite.
+
+A partially dismantled blast door lies on the opposite side of this room – it appears to have been violently ripped open. 
+
+You notice the sound first – deep, guttural breaths – and you realize there's something looming behind the broken blast door, and it's at least 15 feet tall. It takes a moment for your brain to piece together what you're seeing. Two orange eyes peer out at you from behind a huge six foot tall metal shield, with a violet circle painted on its center. But then you realize it's not a shield, it's a helmet sitting on an enormous head, and below that you see a maw of ravening teeth, each the size of your hand. This beast looks like a dragon, but it has no wings, and small, stunted arms. A heavy metal collar wraps around its neck.
+
+Most importantly, it's staring directly at you, breathing heavily, but not moving past the threshold of the broken blast door. It seems to be waiting for your next move, or from some outside command.
+
+
+Library
+-------
+
+TODO
+
+The Breach
+----------
+
+TODO
+
+Auditorium
+----------
+
+TODO
+
+Safe Room
+---------
+
+TODO
+
+
 Friends
 --------
 
@@ -292,5 +338,29 @@ Foes
 
 ![Gish](./monsters/gish.png)
 
-![Gish](./monsters/knight.png)
+![Knight](./monsters/knight.png)
+
+### The Black Monk
+
+A human female in black Monk's robes. Her black hair has been shaved down to almost nothing, elaborate patterns are tattooed on her face in ochre ink.
+
+* Level 12 monk
+* __Ki Points__ 12
+* __Hit Points__ 72
+* __Armor Class__ 17
+* __Speed__ 40 feet
+* STR +2, DEX + 3, CON +2, INT +2, WIS +0, CHA +2
+* __Skills__ Stealth +7
+* __Attacks__ Two attacks per round.
+  * Unarmed strike +6/3d6+2
+  * Thrown darts +7/1d4+3. Darts are dipped in a sleeping potion. Roll 8d8, targets with hit points less than or equal to the roll fall asleep for 1 minute.
+  * Grapple +4
+
+__Blinding powder__ The monk has a pouch of powder that, when thrown in someone's face, stuns and amy even blind them. When thrown in a target's face, treat it as an attack against their touch AC. Struck targets must make a constitution check against DC 14, if theey succeed, they are stunned for one combat round. If they fail, they are stunned for one combat round but also blinded for an hour. The [cure blindness](https://dungeonsdragons.fandom.com/wiki/Cure_blindness) spell can reverse the effect.
+
+__Stunning Fist__ A successful attack stuns a target for 1 round.
+
+__Wholeness of Body__ As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.
+
+__Step of the Wind__ Spend 1 ki point, take [disengage](https://www.dndbeyond.com/sources/basic-rules/combat#Disengage) or [dash](https://www.dndbeyond.com/sources/basic-rules/combat#Dash) as a bonus action for your turn, jump distance is doubled.
 
