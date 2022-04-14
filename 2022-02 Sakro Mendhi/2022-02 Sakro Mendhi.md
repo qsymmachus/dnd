@@ -280,12 +280,15 @@ The blast door can only be opened using the lever in the __blast door control ro
 
 With the blast door open, the hallway opens up twenty feet to the right. Along the length of the right wall, a row of spears protrude from slots within the stone wall, and point at the wall directly opposite.
 
+_Any humanoid size object or larger that walks through the bulkhead will trigger the spear trap they pass in front of (+3 to hit for 1d10+3 damage). Each spear can only fire once, and there a total of nine spears. The trap cannot be disarmed, but a player with a successful disarm traps roll (DC 14) will realize that you remain below the tips of the spears (by crawling or crouching), they will not trigger._
+
 A partially dismantled blast door lies on the opposite side of this room – it appears to have been violently ripped open. 
 
 You notice the sound first – deep, guttural breaths – and you realize there's something looming behind the broken blast door, and it's at least 15 feet tall. It takes a moment for your brain to piece together what you're seeing. Two orange eyes peer out at you from behind a huge six foot tall metal shield, with a violet circle painted on its center. But then you realize it's not a shield, it's a helmet sitting on an enormous head, and below that you see a maw of ravening teeth, each the size of your hand. This beast looks like a dragon, but it has no wings, and small, stunted arms. A heavy metal collar wraps around its neck.
 
 Most importantly, it's staring directly at you, breathing heavily, but not moving past the threshold of the broken blast door. It seems to be waiting for your next move, or from some outside command.
 
+_The monstrous lizard is controlled by a __slave driver__, a fat human man wielding a heavy metal rod. The lizard obeys his commands. If the driver is killed or loses his rod, the lizard will behave like a wild beast._
 
 Library
 -------
@@ -339,6 +342,8 @@ Foes
 ![Gish](./monsters/gish.png)
 
 ![Knight](./monsters/knight.png)
+
+![T-Rex](.monsters/t-rex/png)
 
 ### The Black Monk
 
