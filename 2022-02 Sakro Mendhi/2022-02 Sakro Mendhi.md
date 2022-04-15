@@ -414,7 +414,7 @@ Small modification to the warriors wielding crossbows:
 
 ![Knight](./monsters/knight.png)
 
-![T-Rex](.monsters/t-rex/png)
+![T-Rex](.monsters/t-rex.png)
 
 ### The Black Monk
 
