@@ -284,7 +284,7 @@ _Any humanoid size object or larger that walks through the bulkhead will trigger
 
 A partially dismantled blast door lies on the opposite side of this room – it appears to have been violently ripped open. 
 
-You notice the sound first – deep, guttural breaths – and you realize there's something looming behind the broken blast door, and it's at least 15 feet tall. It takes a moment for your brain to piece together what you're seeing. Two orange eyes peer out at you from behind a huge six foot tall metal shield, with a violet circle painted on its center. But then you realize it's not a shield, it's a helmet sitting on an enormous head, and below that you see a maw of ravening teeth, each the size of your hand. This beast looks like a dragon, but it has no wings, and small, stunted arms. A heavy metal collar wraps around its neck.
+You notice the sound first – deep, guttural breaths – and you realize there's something looming behind the broken blast door, and it's at least 15 feet tall. It takes a moment for your brain to piece together what you're seeing. Two orange eyes peer out at you from behind a huge six foot tall metal shield, with a violet circle painted on its center. But you quickly realize it's not a shield at all, it's a helmet sitting on an enormous head, and below that you see a maw of ravening teeth, each the size of your hand. This beast looks like a dragon, but it has no wings, and small, stunted arms. A heavy metal collar wraps around its neck.
 
 Most importantly, it's staring directly at you, breathing heavily, but not moving past the threshold of the broken blast door. It seems to be waiting for your next move, or from some outside command.
 
@@ -293,23 +293,68 @@ _The monstrous lizard is controlled by a __slave driver__, a fat human man wield
 Library
 -------
 
-TODO
+A trail of blood leads into a cramped, cluttered library. To the left, you see a man slouched against the wall, clutching a stomach wound. He looks at you and spits a wad of blood, "are you here to finish me off?"
+
+The man will explain that he's a guild archivist, and barely escaped with his life after an explosion blew out the north wall and the building was invaded. He doesn't know much else, only that there's a big fight unfolding in the auditorium to the southeast.
+
+Players searching the shelves find a variety of highly technical tomes of academic interest only to Mork. On a nearby desk, you find the following note:
+
+```
+Banned Spells (revised)
+
+• Summon Skribane Ape
+• Skidaddle skadoodle, your dick is now a noodle
+• Squirrel Storm
+• Gateway to Flavor Town
+
+Refer to Liber Interdictorum, Caput 67 section 398 for working list of wizards wanted for using these spells.
+```
 
 The Breach
 ----------
 
-TODO
+This room has nearly been destroyed. The corner wall has been blast open, and beyond the rubble you see the streets of Sakro Mendhi, where scared townsfolk are gawking but keeping their distance.
+
+Half a dozen lifeless bodies litter the floor. Some look like guild defenders, and others bear the violet circle that identify the attackers.
+
+Just to the south, you hear the sounds of battle. The fight isn't over.
 
 Auditorium
 ----------
 
-TODO
+This room opens up to a beautiful vaulted ceiling supported by two rows of stone columns. You hardly have time to admire the architecture however, because the room is consumed by smoke, fire, and blood.
+
+Taking cover behind two nearby columns, you see two defenders. The first, a young sorcerer in yellow robes, is fighting hard but seems a little out of his depth. The second is a grizzled dwarf in heavy armor, who looks calm and collected despite having several crossbow bolts stuck in his pauldron. He periodically waits for an opening lean out from behind the column and fire off a carefully aimed shot from a longbow, attracting crossbow bolts and magical fire from the enemy with every shot.
+
+The defenders are focusing their fire on a raised stone platform at the far side of the room. A group of attackers have taken cover behind the stone wall that borders the platform. You're not sure of their total strength, but you see strange humanoids, similar in appearance to the attackers you fought in the mess hall, taking shots at the defenders with crossbows. A few more warriors are guarding access to stairs that lead up to the platform. Between them, you see a 7 foot tall bird – it looks like an Auran – in richly decorated and sigiled robes. The Auran is casting a flurry of spells at the sorcerer and dwarf. The columns they're taking cover behind are slowly being scorched and blasted apart by the magical force.
+
+_Any defender, attacker, or player taking cover behind a stone column or wall will be partially defended by the cover. Any ranged attack or spell against covered targets are made with disadvantage. In addition, when fighting on the platform stairs, combatants above roll with advantage, combatants below roll with disadvantage._
+
+If the players have any chance to speak with the Dwarf, he'll explain the situation – "they're attacking the safe room, on the other side of that platform. We have to stop them!"
+
+Hallway to the Safe Room
+------------------------
+
+A few of the attackers are engaged in furious ranged combat with a defender at the far end of the hall. The defender is taking cover behind heavily armored doors that have been cracked open slightly to create an embrassure. You can't see who the defender is, but the hallway periodically flashes with bright light and is pummeled with a loud boom. They're using some kind of firearm.
+
+_The defender is is firing a musket, +5 ranged / 1d12+3 damage.__
+
+If the players defeat the attackers, the armored doors will open, revealing the brave defender – a small gremlin with big pointed ears, wearing multiple belts and bandoliers covered in various stabbing weapons, bombs, and tools. It's the Grundler!
+
+"Oi, mates! Glad you finally made it! Better late that never! Ha ha ha!"
 
 Safe Room
 ---------
 
-TODO
+The Red Wizard stands calmly in the center of this room. The walls are made of metal, and you realize that the entire surface of the walls is covered in small, metal drawers.
 
+Though his robes are singed and torn, and he himself appears to be wounded, the Red Wizard seems calm. He doesn't speak to you at first, he only nods. Finally he speaks: "I barely escaped with my life. Sadly I cannot say the same for many of my friends."
+
+An awkward silence fills the room for a few moments. Before anyone has a chance to break the silence, you hear a faint whirring noise. You realize that something small is walking up the hallway – it's about the size of an apple, and it looks like a spider, clicking with metal legs along the stone floor. It stops in the center of the room, and with a little puff of steam and a whirring of gears, it suddently drives its eight pointed legs into the stone ground with surprising force, immobilizing it. Then, The strange machine begins to hum. The hum is growing louder with each passing second
+
+_Brimlad will realize that this is some kind of bomb. She will frantically try to disarm it for a few seconds, but realizing she has no time, she throws her body over the mechanical spider._
+
+With a flash and a sickening thump, you see Brimlad's body jolt suddenly, then sink to the floor. The Grundler rushes over, turning Brimlad over on her back. Her body is riddled with shrapnel. The mechanical spider, a trap sent to assassinate you all, has exploded, leaving behind a smoldering black spot on the floor. With shock and shame, you realize that Brimlad has saved your lives, but now she lies before you, dead.
 
 Friends
 --------
@@ -336,8 +381,34 @@ Ara carries the key to the __blast door control room__.
 * __Skills__ Arcana +3, Persuasion +4
 * __Attacks__ Melee +4 / 2d10+1 Warhammer
 
+### Mendo
+
+This young sorcerer is fighting hard but looks a little out of his depth.
+
+* Male Human Sorcerer 6
+* __HP__ 32
+* __AC__ 10
+* STR +0, DEX +1, CON +0, INT +2, WIS +2, CHA +3
+* __Attacks__ Unarmed strike, 1d4
+* __Spells__ [Magic Missile](https://www.dndbeyond.com/spells/magic-missile), [Blink](https://www.dndbeyond.com/spells/blink), [Confusion](https://www.dndbeyond.com/spells/confusion)
+
+### Tibalt
+
+This heavily armored dwarf looks calm and collected despite having several crossbow bolts stuck in his pauldron. He patiently waits for an opening to fire off a carefully aimed shot from a longbow.
+
+* Male Dwarf Fighter 7
+* __HP__ 85
+* __AC__ 16
+* STR +1, DEX +0, CON +3, INT +0, WIS +3, CHA +1
+* __Attacks__ One per round, Longbow, +2 / 1d8+2
+
 Foes
 ----
+
+[!Githyanki Warrior](./monsters/gith-warrior.png)
+
+Small modification to the warriors wielding crossbows:
+  * Two shots per round, +5 Ranged / 1d10+3
 
 ![Gish](./monsters/gish.png)
 
@@ -354,7 +425,7 @@ A human female in black Monk's robes. Her black hair has been shaved down to alm
 * __Hit Points__ 72
 * __Armor Class__ 17
 * __Speed__ 40 feet
-* STR +2, DEX + 3, CON +2, INT +2, WIS +0, CHA +2
+* STR +2, DEX +3, CON +2, INT +2, WIS +0, CHA +2
 * __Skills__ Stealth +7
 * __Attacks__ Two attacks per round.
   * Unarmed strike +6/3d6+2
@@ -368,4 +439,33 @@ __Stunning Fist__ A successful attack stuns a target for 1 round.
 __Wholeness of Body__ As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.
 
 __Step of the Wind__ Spend 1 ki point, take [disengage](https://www.dndbeyond.com/sources/basic-rules/combat#Disengage) or [dash](https://www.dndbeyond.com/sources/basic-rules/combat#Dash) as a bonus action for your turn, jump distance is doubled.
+
+### Slave Driver
+
+* Level 5 human fighter
+* __Hit Points__ 64
+* __Armor Class__ 12
+* __Speed__ 40 feet
+* STR +1, DEX +0, CON +1, INT -1, WIS -1, CHA -2
+* __Attacks__ One attack per round.
+  * Metal rod, +1/1d8+1
+
+### Auran Warlock
+
+* Level 12 Warlock
+* __Hit Points__ 47
+* __Armor Class__ 14
+* __Speed__ 20 feet, fly 50 feet
+* STR +2, DEX + 3, CON +0, INT +0, WIS +0, CHA +2
+* __Attacks__
+  * Foot talons, +3/1d6+2 slashing
+
+__Eldritch Blast__ A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage. Kul produces 3 beams.
+  * __Repelling Blast__ When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.
+
+__Dreadful Word__ You can cast [confusion](https://www.dndbeyond.com/spells/confusion) once using a warlock spell slot. You can’t do so again until you finish a long rest.
+
+__Bewitching Whispers__ You can cast [compulsion](https://www.dndbeyond.com/spells/compulsion) once using a warlock spell slot. You can’t do so again until you finish a long rest.
+
+__Sign of Ill Omen__ You can cast [bestow curse](https://www.dndbeyond.com/spells/bestow-curse) once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
