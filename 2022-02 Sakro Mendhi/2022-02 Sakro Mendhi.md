@@ -354,7 +354,7 @@ An awkward silence fills the room for a few moments. Before anyone has a chance 
 
 _Brimlad will realize that this is some kind of bomb. She will frantically try to disarm it for a few seconds, but realizing she has no time, she throws her body over the mechanical spider._
 
-With a flash and a sickening thump, you see Brimlad's body jolt suddenly, then sink to the floor. The Grundler rushes over, turning Brimlad over on her back. Her body is riddled with shrapnel. The mechanical spider, a trap sent to assassinate you all, has exploded, leaving behind a smoldering black spot on the floor. With shock and shame, you realize that Brimlad has saved your lives, but now she lies before you, dead.
+With a flash and a sickening thump, you see Brimlad's body jolt suddenly, then sink to the floor. The Grundler rushes over, turning Brimlad over on her back. Her body is riddled with shrapnel. The mechanical spider, a trap sent to assassinate you all, has exploded, leaving behind a smoldering black spot on the floor. With shock and shame, you realize that Brimlad has saved your lives, but now she lies before you, dead. 
 
 Friends
 --------
@@ -405,7 +405,7 @@ This heavily armored dwarf looks calm and collected despite having several cross
 Foes
 ----
 
-[!Githyanki Warrior](./monsters/gith-warrior.png)
+![Githyanki Warrior](./monsters/gith-warrior.png)
 
 Small modification to the warriors wielding crossbows:
   * Two shots per round, +5 Ranged / 1d10+3
